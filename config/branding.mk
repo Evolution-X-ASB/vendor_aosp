@@ -1,6 +1,6 @@
 # Versioning System
-EVO_BASE_VERSION = 2.3
-EVO_CODENAME := ByebyeMrAndroidPie
+EVO_BASE_VERSION = 2.4
+EVO_CODENAME := Resurrection
 
 # Set all versions
 CUSTOM_BUILD_TYPE ?= UNOFFICIAL
